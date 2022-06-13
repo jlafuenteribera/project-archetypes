@@ -1,0 +1,18 @@
+@import './styles/normalize';
+@import './styles/reset';
+@import './styles/typography';
+@import './styles/public/variables';
+@import './styles/overrides';
+@import './styles/spacings';
+
+/* You can add global styles to this file, and also import other style files */
+
+html {
+  font-size: 14px;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  overflow: hidden;
+}

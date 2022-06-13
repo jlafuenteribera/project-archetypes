@@ -1,0 +1,269 @@
+.margin {
+  &__top {
+    &__none {
+      margin-top: 0px;
+    }
+    &__small {
+      margin-top: 4px;
+    }
+    &__normal {
+      margin-top: 8px;
+    }
+    &__big {
+      margin-top: 16px;
+    }
+    &__extrabig {
+      margin-top: 32px;
+    }
+    &__huge {
+      margin-top: 64px;
+    }
+  }
+  &__right {
+    &__none {
+      margin-right: 0px;
+    }
+    &__small {
+      margin-right: 4px;
+    }
+    &__normal {
+      margin-right: 8px;
+    }
+    &__big {
+      margin-right: 16px;
+    }
+    &__extrabig {
+      margin-right: 32px;
+    }
+    &__huge {
+      margin-right: 64px;
+    }
+  }
+  &__bottom {
+    &__none {
+      margin-bottom: 0px;
+    }
+    &__small {
+      margin-bottom: 4px;
+    }
+    &__normal {
+      margin-bottom: 8px;
+    }
+    &__big {
+      margin-bottom: 16px;
+    }
+    &__extrabig {
+      margin-bottom: 32px;
+    }
+    &__huge {
+      margin-bottom: 64px;
+    }
+  }
+  &__left {
+    &__none {
+      margin-left: 0px;
+    }
+    &__small {
+      margin-left: 4px;
+    }
+    &__normal {
+      margin-left: 8px;
+    }
+    &__big {
+      margin-left: 16px;
+    }
+    &__extrabig {
+      margin-left: 32px;
+    }
+    &__huge {
+      margin-left: 64px;
+    }
+  }
+  &__horizontal {
+    &__none {
+      margin-right: 0px;
+      margin-left: 0px;
+    }
+    &__small {
+      margin-right: 4px;
+      margin-left: 4px;
+    }
+    &__normal {
+      margin-right: 8px;
+      margin-left: 8px;
+    }
+    &__big {
+      margin-right: 16px;
+      margin-left: 16px;
+    }
+    &__extrabig {
+      margin-right: 32px;
+      margin-left: 32px;
+    }
+    &__huge {
+      margin-right: 64px;
+      margin-left: 64px;
+    }
+  }
+  &__vertical {
+    &__none {
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+    &__small {
+      margin-top: 4px;
+      margin-bottom: 4px;
+    }
+    &__normal {
+      margin-top: 8px;
+      margin-bottom: 8px;
+    }
+    &__big {
+      margin-top: 16px;
+      margin-bottom: 16px;
+    }
+    &__extrabig {
+      margin-top: 32px;
+      margin-bottom: 32px;
+    }
+    &__huge {
+      margin-top: 64px;
+      margin-bottom: 64px;
+    }
+  }
+}
+
+.padding {
+  &__top {
+    &__none {
+      padding-top: 0px;
+    }
+    &__small {
+      padding-top: 4px;
+    }
+    &__normal {
+      padding-top: 8px;
+    }
+    &__big {
+      padding-top: 16px;
+    }
+    &__extrabig {
+      padding-top: 32px;
+    }
+    &__huge {
+      padding-top: 64px;
+    }
+  }
+  &__right {
+    &__none {
+      padding-right: 0px;
+    }
+    &__small {
+      padding-right: 4px;
+    }
+    &__normal {
+      padding-right: 8px;
+    }
+    &__big {
+      padding-right: 16px;
+    }
+    &__extrabig {
+      padding-right: 32px;
+    }
+    &__huge {
+      padding-right: 64px;
+    }
+  }
+  &__bottom {
+    &__none {
+      padding-bottom: 0px;
+    }
+    &__small {
+      padding-bottom: 4px;
+    }
+    &__normal {
+      padding-bottom: 8px;
+    }
+    &__big {
+      padding-bottom: 16px;
+    }
+    &__extrabig {
+      padding-bottom: 32px;
+    }
+    &__huge {
+      padding-bottom: 64px;
+    }
+  }
+  &__left {
+    &__none {
+      padding-left: 0px;
+    }
+    &__small {
+      padding-left: 4px;
+    }
+    &__normal {
+      padding-left: 8px;
+    }
+    &__big {
+      padding-left: 16px;
+    }
+    &__extrabig {
+      padding-left: 32px;
+    }
+    &__huge {
+      padding-left: 64px;
+    }
+  }
+  &__horizontal {
+    &__none {
+      padding-right: 0px;
+      padding-left: 0px;
+    }
+    &__small {
+      padding-right: 4px;
+      padding-left: 4px;
+    }
+    &__normal {
+      padding-right: 8px;
+      padding-left: 8px;
+    }
+    &__big {
+      padding-right: 16px;
+      padding-left: 16px;
+    }
+    &__extrabig {
+      padding-right: 32px;
+      padding-left: 32px;
+    }
+    &__huge {
+      padding-right: 64px;
+      padding-left: 64px;
+    }
+  }
+  &__vertical {
+    &__none {
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }
+    &__small {
+      padding-top: 4px;
+      padding-bottom: 4px;
+    }
+    &__normal {
+      padding-top: 8px;
+      padding-bottom: 8px;
+    }
+    &__big {
+      padding-top: 16px;
+      padding-bottom: 16px;
+    }
+    &__extrabig {
+      padding-top: 32px;
+      padding-bottom: 32px;
+    }
+    &__huge {
+      padding-top: 64px;
+      padding-bottom: 64px;
+    }
+  }
+}
