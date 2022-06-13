@@ -3,11 +3,9 @@ import { CanActivateChild, ActivatedRouteSnapshot, RouterStateSnapshot } from '@
 
 @Injectable()
 export class AuthGuard implements CanActivateChild {
-
-  constructor() {
-  }
+  constructor() {}
 
   canActivateChild(childRoute?: ActivatedRouteSnapshot, state?: RouterStateSnapshot): boolean {
-      return true;
+    return true;
   }
 }
